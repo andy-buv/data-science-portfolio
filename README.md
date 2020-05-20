@@ -6,3 +6,4 @@ Portfolio of Data Science Projects
 - **Korfs.** a Korfball Analytics Platform
 - **Kaggle Competitions** 
   - Real or Not? NLP with Disaster Tweets
+- **England Korfball League Simulation** - COVID19
